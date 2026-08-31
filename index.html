@@ -10,12 +10,20 @@
   <main class="app">
     <h1 class="app__title">Latte Art Trainer</h1>
 
+    <div class="filters">
+      <button class="filter-btn filter-btn--active" data-category="All">All</button>
+      <button class="filter-btn" data-category="Basic">Basic</button>
+      <button class="filter-btn" data-category="Special">Special</button>
+      <button class="filter-btn" data-category="Professional">Professional</button>
+      <button class="filter-btn" data-category="Animals">Animals</button>
+    </div>
+
     <div class="card">
       <div class="card__image" id="designImage">
         <span class="card__placeholder-icon">☕</span>
       </div>
-      <p class="card__name" id="designName">Rosetta</p>
-      <p class="card__meta" id="designMeta">Basic · ★☆☆☆☆</p>
+      <p class="card__name" id="designName">Loading…</p>
+      <p class="card__meta" id="designMeta"></p>
     </div>
 
     <button class="btn" id="nextBtn">Next design</button>

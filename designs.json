@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "Rosetta", "category": "Basic", "difficulty": 1, "image": "images/rosetta.jpg" },
+  { "id": 2, "name": "Heart", "category": "Basic", "difficulty": 1, "image": "images/heart.jpg" },
+  { "id": 3, "name": "Tulip", "category": "Basic", "difficulty": 2, "image": "images/tulip.jpg" },
+  { "id": 4, "name": "Swan", "category": "Special", "difficulty": 3, "image": "images/swan.jpg" },
+  { "id": 5, "name": "Multi-Rosetta", "category": "Special", "difficulty": 3, "image": "images/multi-rosetta.jpg" },
+  { "id": 6, "name": "Layered Heart", "category": "Professional", "difficulty": 4, "image": "images/layered-heart.jpg" },
+  { "id": 7, "name": "Peacock", "category": "Professional", "difficulty": 5, "image": "images/peacock.jpg" },
+  { "id": 8, "name": "Cat", "category": "Animals", "difficulty": 3, "image": "images/cat.jpg" }
+]
