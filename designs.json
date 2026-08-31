@@ -1,10 +1,13 @@
 [
-  { "id": 1, "name": "Rosetta", "category": "Basic", "difficulty": 1, "image": "images/rosetta.jpg" },
-  { "id": 2, "name": "Heart", "category": "Basic", "difficulty": 1, "image": "images/heart.jpg" },
-  { "id": 3, "name": "Tulip", "category": "Basic", "difficulty": 2, "image": "images/tulip.jpg" },
-  { "id": 4, "name": "Swan", "category": "Special", "difficulty": 3, "image": "images/swan.jpg" },
-  { "id": 5, "name": "Multi-Rosetta", "category": "Special", "difficulty": 3, "image": "images/multi-rosetta.jpg" },
-  { "id": 6, "name": "Layered Heart", "category": "Professional", "difficulty": 4, "image": "images/layered-heart.jpg" },
-  { "id": 7, "name": "Peacock", "category": "Professional", "difficulty": 5, "image": "images/peacock.jpg" },
-  { "id": 8, "name": "Cat", "category": "Animals", "difficulty": 3, "image": "images/cat.jpg" }
+  { "id": 1, "name": "Rosetta", "category": "Basic", "difficulty": 2, "image": "images/basic/rosetta.jpg" },
+  { "id": 2, "name": "4-Tulip", "category": "Basic", "difficulty": 1, "image": "images/basic/4-tulip.jpg" },
+  { "id": 3, "name": "5-Tulip", "category": "Basic", "difficulty": 2, "image": "images/basic/5-tulip.jpg" },
+  { "id": 4, "name": "5-Winged Tulip", "category": "Basic", "difficulty": 2, "image": "images/basic/5-winged-tulip.jpg" },
+  { "id": 5, "name": "Rippled Swan", "category": "Swans", "difficulty": 3, "image": "images/swans/rippled-swan.jpg" },
+  { "id": 6, "name": "Rippled Swan v2", "category": "Swans", "difficulty": 3, "image": "images/swans/rippled-swan-1.jpg" },
+  { "id": 7, "name": "Swan in a Lake", "category": "Swans", "difficulty": 3, "image": "images/swans/swan-lake.jpg" },
+  { "id": 8, "name": "Reverted Rosetta Swan", "category": "Swans", "difficulty": 3, "image": "images/swans/reverted-rosetta-swan.jpg" },
+  { "id": 9, "name": "Mouse", "category": "Animals", "difficulty": 4, "image": "images/animals/mouse.jpg" },
+  { "id": 10, "name": "Raven", "category": "Animals", "difficulty": 4, "image": "images/animals/raven.jpg" },
+  { "id": 11, "name": "Seahorse", "category": "Animals", "difficulty": 4, "image": "images/animals/seahorse.jpg" }
 ]
