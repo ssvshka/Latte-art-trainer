@@ -80,7 +80,7 @@ body {
   flex: 1;
   min-height: 0;
   border-radius: 16px;
-  background: linear-gradient(160deg, var(--color-accent), var(--color-accent-dark));
+  background: var(--color-bg);
   display: flex;
   align-items: center;
   justify-content: center;
